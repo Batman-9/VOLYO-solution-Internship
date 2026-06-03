@@ -1,0 +1,32 @@
+📅 **Date: 25 May 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 19: SQL Practice Day – Complex Queries**
+
+**Topic:**
+Advanced SQL Query Practice and Problem Solving
+
+**Learning Objectives:**
+
+* Combine multiple SQL concepts in complex queries
+* Practice using JOINs, subqueries, aggregate functions, and views together
+* Improve logical thinking and SQL problem-solving skills
+* Learn how to write optimized multi-step queries for real-world scenarios
+* Understand different approaches to solving the same SQL problem
+
+**Activities / Deliverables:**
+
+* Solve 10 real-world SQL practice problems
+* Write complex queries using JOINs, subqueries, GROUP BY, HAVING, and views
+* Analyse and verify query outputs using sample datasets
+* Review and discuss different query-writing approaches
+* Participate in peer review and compare solutions for optimization and readability
+* Document solutions and observations for future reference
+
+**Tools / Tech:**
+
+* MySQL 8
+* MySQL Workbench
+
+━━━━━━━━━━━━━━━━━━━━━━

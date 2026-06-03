@@ -1,0 +1,32 @@
+📅 **Date: 22 May 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 17: Database Security & User Management**
+
+**Topic:**
+Database Security, Users, Roles, and Privilege Management
+
+**Learning Objectives:**
+
+* Understand the importance of database security and access control
+* Learn how to create and manage database users
+* Understand GRANT and REVOKE commands for privilege management
+* Learn about database roles and role-based access control
+* Understand the principle of least privilege and secure user permissions
+
+**Activities / Deliverables:**
+
+* Create database users: `intern_user` and `admin_user`
+* Define roles with appropriate permissions
+* Assign minimum required privileges to each user
+* Practice using GRANT and REVOKE commands
+* Test user access and permission restrictions
+* Document user roles, privileges, and security observations
+
+**Tools / Tech:**
+
+* MySQL 8
+* MySQL Command Line Interface (CLI)
+
+━━━━━━━━━━━━━━━━━━━━━━

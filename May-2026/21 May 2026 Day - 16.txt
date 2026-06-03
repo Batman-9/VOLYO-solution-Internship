@@ -1,0 +1,31 @@
+📅 **Date: 21 May 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 16: Triggers**
+
+**Topic:**
+Database Triggers and Audit Logging
+
+**Learning Objectives:**
+
+* Understand what triggers are and how they work in databases
+* Learn the difference between BEFORE and AFTER triggers
+* Explore trigger events such as INSERT, UPDATE, and DELETE
+* Understand the concept of audit tables for tracking database changes
+* Learn how triggers help maintain security and data history
+
+**Activities / Deliverables:**
+
+* Create an audit-log trigger for DELETE operations
+* Design an audit table to store deleted record information
+* Implement BEFORE/AFTER DELETE trigger logic
+* Test the trigger by deleting sample records
+* Verify audit logs and inspect stored data in the audit table
+* Document trigger behavior and observations
+
+**Tools / Tech:**
+
+* MySQL 8
+
+━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,32 @@
+📅 **Date: 28 May 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 22: PostgreSQL – DDL & DML Basics**
+
+**Topic:**
+PostgreSQL Data Definition Language (DDL) and Data Manipulation Language (DML) Basics
+
+**Learning Objectives:**
+
+* Understand table creation and database structure in PostgreSQL
+* Learn PostgreSQL-specific data types such as SERIAL, TEXT, and BOOLEAN
+* Practice basic DDL commands like CREATE TABLE
+* Learn DML operations including INSERT, UPDATE, and DELETE
+* Compare PostgreSQL syntax and behavior with MySQL
+
+**Activities / Deliverables:**
+
+* Recreate VolyoDB tables in PostgreSQL
+* Use PostgreSQL data types while designing tables
+* Insert sample records into tables
+* Practice basic DML queries on PostgreSQL databases
+* Compare syntax differences between MySQL and PostgreSQL
+* Verify outputs and document observations
+
+**Tools / Tech:**
+
+* PostgreSQL
+* pgAdmin 4
+
+━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,32 @@
+📅 **Date: 23 May 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 18: Backup & Recovery Basics**
+
+**Topic:**
+Database Backup and Recovery Fundamentals
+
+**Learning Objectives:**
+
+* Understand the importance of database backups and recovery planning
+* Learn how to create full database backups using `mysqldump`
+* Understand how to restore databases from dump files
+* Learn how backups help prevent data loss and support disaster recovery
+* Explore basic recovery techniques in MySQL
+
+**Activities / Deliverables:**
+
+* Create a full backup of `VolyoDB` using `mysqldump`
+* Save and inspect the generated dump file
+* Simulate accidental data loss by dropping a table
+* Restore the dropped table/database from the backup file
+* Verify restored data and database consistency
+* Document the backup and recovery process with observations
+
+**Tools / Tech:**
+
+* `mysqldump`
+* MySQL Command Line Interface (CLI)
+
+━━━━━━━━━━━━━━━━━━━━━━

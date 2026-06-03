@@ -1,0 +1,33 @@
+📅 **Date: 29 May 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 23: PostgreSQL – Queries & Differences**
+
+**Topic:**
+PostgreSQL Queries and Syntax Differences Compared to MySQL
+
+**Learning Objectives:**
+
+* Practice writing SELECT queries in PostgreSQL
+* Learn PostgreSQL string and date functions
+* Understand key syntax and functional differences between PostgreSQL and MySQL
+* Compare query execution and output behavior across both database systems
+* Improve adaptability between different relational database platforms
+
+**Activities / Deliverables:**
+
+* Run the same 10 SQL queries on both MySQL and PostgreSQL
+* Practice SELECT statements with filtering and sorting
+* Use PostgreSQL string functions and date functions
+* Compare query syntax, functions, and outputs between both systems
+* Document all syntax differences and observations
+* Analyse compatibility and usability differences in real-world scenarios
+
+**Tools / Tech:**
+
+* PostgreSQL
+* MySQL
+* pgAdmin 4
+
+━━━━━━━━━━━━━━━━━━━━━━

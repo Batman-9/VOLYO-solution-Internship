@@ -1,0 +1,32 @@
+📅 **Date: 27 May 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 21: Introduction to PostgreSQL**
+
+**Topic:**
+Introduction to PostgreSQL and Database Environment Setup
+
+**Learning Objectives:**
+
+* Understand what PostgreSQL is and where it is used
+* Learn the key differences between PostgreSQL and MySQL
+* Explore PostgreSQL features such as advanced SQL support and extensibility
+* Learn how to install PostgreSQL and connect to a database server
+* Understand the basics of the pgAdmin 4 interface
+
+**Activities / Deliverables:**
+
+* Install PostgreSQL 15 on the system
+* Install and configure pgAdmin 4
+* Create the first PostgreSQL database connection
+* Explore the pgAdmin dashboard and interface
+* Compare PostgreSQL tools and workflow with MySQL
+* Document setup steps and initial observations
+
+**Tools / Tech:**
+
+* PostgreSQL 15
+* pgAdmin 4
+
+━━━━━━━━━━━━━━━━━━━━━━
