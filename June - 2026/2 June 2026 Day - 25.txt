@@ -1,0 +1,33 @@
+📅 **Date: 2 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 25: MySQL vs PostgreSQL – Comparison**
+
+**Topic:**
+Comparative Analysis of MySQL and PostgreSQL
+
+**Learning Objectives:**
+
+* Understand the key differences between MySQL and PostgreSQL
+* Compare supported data types and database features
+* Learn about performance considerations for different workloads
+* Explore common use cases and industry adoption of both databases
+* Understand licensing models, community support, and ecosystem differences
+* Develop the ability to choose the right database based on project requirements
+
+**Activities / Deliverables:**
+
+* Research MySQL and PostgreSQL features in detail
+* Create a comparison table covering data types, performance, scalability, security, licensing, and use cases
+* Analyze strengths and limitations of each database system
+* Prepare a summary document highlighting major differences
+* Present findings and recommendations to mentor
+* Document real-world scenarios where each database would be the preferred choice
+
+**Tools / Tech:**
+
+* Research Resources
+* MS Word
+
+━━━━━━━━━━━━━━━━━━━━━━

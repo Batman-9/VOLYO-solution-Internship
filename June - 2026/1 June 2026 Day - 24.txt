@@ -1,0 +1,35 @@
+📅 **Date: 1 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 24: PostgreSQL – Users & Basic Administration**
+
+**Topic:**
+PostgreSQL User Management and Basic Database Administration
+
+**Learning Objectives:**
+
+* Understand user and role management in PostgreSQL
+* Learn how to create roles using the `CREATE ROLE` command
+* Practice assigning permissions with the `GRANT` statement
+* Understand database backup and recovery using `pg_dump`
+* Learn essential commands and operations in the `psql` command-line interface
+* Explore basic administrative tasks in PostgreSQL
+
+**Activities / Deliverables:**
+
+* Create roles in PostgreSQL with different access levels
+* Assign and test permissions using `GRANT` commands
+* Create a database backup using `pg_dump`
+* Restore the backup and verify data consistency
+* Practice common `psql` CLI commands for database management
+* Compare administration tasks performed through pgAdmin and the command line
+* Document the backup, restore, and user-management workflow
+
+**Tools / Tech:**
+
+* PostgreSQL
+* psql CLI
+* pgAdmin 4
+
+━━━━━━━━━━━━━━━━━━━━━━
