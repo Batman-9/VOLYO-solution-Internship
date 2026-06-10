@@ -1,0 +1,35 @@
+📅 **Date: 10 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 32: MongoDB – Installation & Basics**
+
+**Topic:**
+Introduction to MongoDB, Documents, Collections, and BSON
+
+**Learning Objectives:**
+
+* Understand what MongoDB is and how it differs from relational databases
+* Learn the concepts of documents, collections, and databases in MongoDB
+* Understand BSON (Binary JSON) format and its advantages
+* Explore the architecture and use cases of MongoDB
+* Learn how NoSQL databases handle flexible and unstructured data
+* Gain familiarity with MongoDB tools and interfaces
+
+**Activities / Deliverables:**
+
+* Install MongoDB 7 and MongoDB Compass
+* Configure the MongoDB server and verify the installation
+* Connect MongoDB Compass to the local database server
+* Create the first MongoDB database and collection
+* Insert sample documents into a collection
+* Explore document structure and BSON data representation
+* Perform basic operations such as viewing, editing, and deleting documents
+* Document observations and compare MongoDB's document model with relational database tables
+
+**Tools / Tech:**
+
+* MongoDB 7
+* MongoDB Compass
+
+━━━━━━━━━━━━━━━━━━━━━━

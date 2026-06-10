@@ -1,0 +1,60 @@
+📅 **Date: 8 &  9 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 30 & Day 31: Database Selection, Design Review & Introduction to NoSQL**
+
+### Topic 1: Database Selection & Design Review
+
+**Learning Objectives:**
+
+* Understand how to select the most suitable database for different business requirements
+* Learn the basic concept of the CAP Theorem (Consistency, Availability, Partition Tolerance)
+* Analyze factors such as scalability, performance, reliability, and data structure requirements
+* Evaluate relational and non-relational databases based on real-world scenarios
+* Develop decision-making skills for database architecture design
+
+**Activities / Deliverables:**
+
+* Analyze three Volyo business scenarios and identify the most suitable database solution for each
+* Justify database selection based on business requirements, scalability, and performance needs
+* Research the CAP Theorem and understand its practical implications
+* Prepare a presentation summarizing findings and recommendations
+* Document decision-making criteria used for database selection
+
+**Tools / Tech:**
+
+* Research Resources
+* Presentation Software
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+### Topic 2: Introduction to NoSQL
+
+**Learning Objectives:**
+
+* Understand why NoSQL databases were introduced and their advantages
+* Learn the four major NoSQL database types:
+
+  * Document Databases
+  * Key-Value Databases
+  * Column-Family Databases
+  * Graph Databases
+* Explore real-world applications and use cases of each NoSQL model
+* Compare NoSQL databases with traditional RDBMS systems
+* Understand when NoSQL is preferred over relational databases
+
+**Activities / Deliverables:**
+
+* Research different NoSQL database categories and their characteristics
+* Create a comparison chart between RDBMS and the four NoSQL database types
+* Study real-world examples such as MongoDB, Redis, Cassandra, and Neo4j
+* Analyze strengths, limitations, and ideal use cases for each database model
+* Present findings and discuss database selection strategies for modern applications
+
+**Tools / Tech:**
+
+* Draw.io
+* Research Resources
+
+━━━━━━━━━━━━━━━━━━━━━━
