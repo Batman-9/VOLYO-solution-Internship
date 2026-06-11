@@ -1,0 +1,35 @@
+📅 **Date: 11 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 33: MongoDB – CRUD Operations**
+
+**Topic:**
+MongoDB CRUD Operations and Query Operators
+
+**Learning Objectives:**
+
+* Understand the core CRUD operations in MongoDB: Create, Read, Update, and Delete
+* Learn how to insert single and multiple documents using `insertOne()` and `insertMany()`
+* Explore document retrieval using `find()` and query filters
+* Understand document modification using `updateOne()` and `updateMany()`
+* Learn how to remove documents using `deleteOne()` and conditional deletion
+* Gain experience with commonly used MongoDB query operators such as `$eq`, `$gt`, `$lt`, `$in`, and `$and`
+
+**Activities / Deliverables:**
+
+* Create a Student Collection in MongoDB
+* Insert 20 student documents with fields such as Student ID, Name, Age, Course, and Marks
+* Retrieve student records using various query conditions
+* Apply filters to find students based on marks, age, or course
+* Update selected student records using `updateOne()` and `updateMany()`
+* Delete specific documents using conditional queries
+* Verify all CRUD operations through MongoDB Compass
+* Document the commands executed and the results obtained during testing
+
+**Tools / Tech:**
+
+* MongoDB 7
+* MongoDB Compass
+
+━━━━━━━━━━━━━━━━━━━━━━
