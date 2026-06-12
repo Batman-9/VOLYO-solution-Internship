@@ -1,0 +1,35 @@
+📅 **Date: 12 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 34: MongoDB – Query Operators & Filters**
+
+**Topic:**
+MongoDB Query Operators, Filtering, Projection, and Data Retrieval
+
+**Learning Objectives:**
+
+* Understand how MongoDB query operators are used to filter documents
+* Learn the functionality of operators such as `$eq`, `$gt`, `$lt`, `$in`, `$and`, `$or`, and `$not`
+* Explore projection techniques to retrieve specific fields from documents
+* Learn how to sort query results in ascending and descending order
+* Understand the use of `limit()` and `skip()` for pagination and result management
+* Develop skills in writing efficient and flexible MongoDB queries
+
+**Activities / Deliverables:**
+
+* Use the Student Collection created previously for query practice
+* Write and execute 12 MongoDB queries using different operators and conditions
+* Filter student records based on age, marks, course, and other attributes
+* Apply logical operators such as `$and`, `$or`, and `$not` in complex queries
+* Use projection to display selected fields while hiding unnecessary data
+* Sort records based on marks, age, or student names
+* Implement `limit()` and `skip()` to control the number of returned documents
+* Document all queries along with their outputs and observations
+
+**Tools / Tech:**
+
+* MongoDB 7
+* MongoDB Compass
+
+━━━━━━━━━━━━━━━━━━━━━━
