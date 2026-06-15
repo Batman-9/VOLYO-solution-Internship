@@ -1,0 +1,37 @@
+📅 **Date: 15 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 36: MongoDB – Indexes**
+
+**Topic:**
+MongoDB Indexing and Query Performance Optimization
+
+**Learning Objectives:**
+
+* Understand the importance of indexes in improving query performance
+* Learn how MongoDB indexes speed up data retrieval operations
+* Explore different types of indexes available in MongoDB
+* Understand how to create indexes using the `createIndex()` method
+* Learn how the `explain()` method helps analyze query execution plans
+* Compare query performance before and after applying indexes
+* Gain practical knowledge of database optimization techniques
+
+**Activities / Deliverables:**
+
+* Review the Student Collection created in previous exercises
+* Execute queries without indexes and record execution behavior
+* Create indexes on frequently queried fields such as Student ID, Course, and Marks
+* Use the `createIndex()` command to optimize data access
+* Run multiple search and filter queries on indexed fields
+* Analyze query execution plans using the `explain()` method
+* Compare performance metrics before and after index creation
+* Document observations on query speed, execution plans, and optimization benefits
+* Prepare a short report summarizing the impact of indexing on database performance
+
+**Tools / Tech:**
+
+* MongoDB 7
+* MongoDB Compass
+
+━━━━━━━━━━━━━━━━━━━━━━
