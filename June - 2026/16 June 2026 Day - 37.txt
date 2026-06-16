@@ -1,0 +1,36 @@
+📅 **Date: 16 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 37: MongoDB – Schema Design**
+
+**Topic:**
+MongoDB Schema Design: Embedding vs Referencing Documents
+
+**Learning Objectives:**
+
+* Understand the importance of schema design in MongoDB applications
+* Learn the difference between embedded and referenced document models
+* Explore the advantages and limitations of both design approaches
+* Understand when to use embedding and when to use referencing
+* Learn beginner-friendly MongoDB schema design patterns
+* Develop skills for designing scalable and maintainable NoSQL databases
+
+**Activities / Deliverables:**
+
+* Study the concepts of embedded and referenced documents in MongoDB
+* Analyze real-world scenarios where each approach is most suitable
+* Design a **Blog Posts Schema** using embedded comments within blog documents
+* Design an **Orders Schema** using referenced documents for customers, orders, and products
+* Create schema diagrams using Draw.io to visualize document relationships
+* Implement the schemas in MongoDB Compass and insert sample data
+* Compare storage structure, query simplicity, and scalability between both approaches
+* Document observations and justify the choice of embedding or referencing for each use case
+
+**Tools / Tech:**
+
+* MongoDB 7
+* MongoDB Compass
+* Draw.io
+
+━━━━━━━━━━━━━━━━━━━━━━
