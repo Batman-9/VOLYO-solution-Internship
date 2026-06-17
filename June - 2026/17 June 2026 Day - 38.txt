@@ -1,0 +1,37 @@
+📅 **Date: 17 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 38: MongoDB – Compass GUI Deep Dive**
+
+**Topic:**
+Advanced Features of MongoDB Compass: Data Import, Schema Analysis, and Visual Query Building
+
+**Learning Objectives:**
+
+* Understand the advanced capabilities of MongoDB Compass
+* Learn how to import and export data using CSV and JSON formats
+* Explore schema analysis features to understand data structure and patterns
+* Learn to use the Visual Query Builder for creating queries without writing code
+* Understand how Compass helps in database administration and data exploration
+* Gain practical experience in managing MongoDB collections through a graphical interface
+
+**Activities / Deliverables:**
+
+* Explore the MongoDB Compass interface and advanced tools
+* Import a CSV dataset into a MongoDB collection using Compass
+* Verify imported records and inspect document structure
+* Perform schema analysis to identify field types and data distribution
+* Use the Visual Query Builder to create and execute queries
+* Apply filters, sorting, and projections using Compass GUI tools
+* Export selected data and query results to external files
+* Document observations regarding schema patterns and data quality
+* Compare GUI-based operations with command-line MongoDB queries
+
+**Tools / Tech:**
+
+* MongoDB Compass
+* CSV Dataset
+* MongoDB 7
+
+━━━━━━━━━━━━━━━━━━━━━━
