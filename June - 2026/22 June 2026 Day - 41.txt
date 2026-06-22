@@ -1,0 +1,60 @@
+📅 **Date: 22 June 2026**
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+**Day 41: Introduction to Server-side Development & Python Web Programming Basics**
+
+**Topic:**
+Understanding Client-Server Architecture, HTTP Communication, and Python Fundamentals for Backend Development
+
+**Learning Objectives:**
+
+### Server-side Development
+
+* Understand the difference between client-side and server-side development
+* Learn how websites process requests and responses
+* Understand the HTTP protocol and common methods such as GET and POST
+* Explore the complete request-response lifecycle
+* Identify server-side and client-side technologies used in modern web applications
+* Learn the role of backend servers in handling data, authentication, and business logic
+
+### Python for Backend Development
+
+* Understand why Python is widely used for server-side development
+* Learn Python programming concepts used in web applications
+* Practice functions, modules, and package management
+* Understand file handling and exception handling
+* Learn Object-Oriented Programming (OOP) basics
+* Explore Python libraries commonly used in backend development
+* Get introduced to web frameworks such as Flask and Django
+
+**Activities / Deliverables:**
+
+### Server-side Development
+
+* Draw a detailed Client-Server Architecture diagram using Draw.io
+* Illustrate the request-response cycle between browser and server
+* Research five popular websites and identify their client-side and server-side components
+* Compare frontend and backend responsibilities
+* Document the flow of HTTP requests and responses
+* Analyze the usage of GET and POST methods in real-world applications
+
+### Python Practice
+
+* Write Python programs using functions and modules
+* Create programs demonstrating exception handling
+* Practice file reading and writing operations
+* Build simple classes and objects using OOP concepts
+* Create a mini Python application for managing user information
+* Explore Python package installation using pip
+* Write basic scripts that simulate backend processing logic
+* Document program outputs and observations
+
+**Tools / Tech:**
+
+* Python 3
+* VS Code
+* Draw.io
+* Research Resources
+
+━━━━━━━━━━━━━━━━━━━━━━
