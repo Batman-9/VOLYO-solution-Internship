@@ -1,0 +1,30 @@
+📅 **Date: 24 June 2026**
+
+**Day 43: Introduction to Python Flask**
+
+**Topic:** Creating Web Applications with Flask
+
+**Learning Objectives:**
+
+* Understand what Flask is and its role in web development
+* Install and configure Flask
+* Create a basic "Hello World" web application
+* Learn about routes and URL handling
+* Run a Flask application locally
+
+**Activities / Deliverables:**
+
+* Install Flask using pip
+* Create a Flask project in VS Code
+* Build a "Hello World" application
+* Create 3 different routes/pages
+* Run the application locally and test in a browser
+* Document observations and outputs
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━
