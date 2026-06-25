@@ -1,0 +1,36 @@
+📅 **Date: 25 June 2026**
+
+**Day 44: Flask – Routing & Templates**
+
+**Topic:** URL Routing, Dynamic Routes, and Jinja2 Templates
+
+**Learning Objectives:**
+
+* Understand Flask URL routing and dynamic routes
+* Learn to use `render_template()`
+* Understand Jinja2 template basics
+* Pass data from Flask to HTML pages
+* Create multi-page web applications
+
+**Activities / Deliverables:**
+
+* Create a Flask project with 4 pages:
+
+  * Home
+  * About
+  * Contact
+  * Data
+* Implement URL routing for each page
+* Create HTML templates using Jinja2
+* Pass dynamic data from Flask to HTML
+* Test navigation between all pages
+* Document outputs and observations
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* Jinja2
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━
