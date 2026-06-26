@@ -1,0 +1,31 @@
+📅 **Date: 26 June 2026**
+
+**Day 45: Flask – Connecting to MySQL**
+
+**Topic:** Connecting a Flask Application with MySQL Database
+
+**Learning Objectives:**
+
+* Understand how Flask interacts with MySQL databases
+* Learn to use the `mysql-connector-python` library
+* Execute SQL queries from Flask
+* Fetch and display database records in a web page
+* Build a simple database-driven Flask application
+
+**Activities / Deliverables:**
+
+* Install the `mysql-connector-python` package
+* Connect the Flask application to **VolyoDB**
+* Execute SQL queries to retrieve employee records
+* Display the employee list on a web page using Jinja2 templates
+* Test the database connection and verify the output
+
+**Tools / Tech:**
+
+* Python 3
+* Flask
+* mysql-connector-python
+* MySQL
+* VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━
