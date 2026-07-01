@@ -1,29 +1,31 @@
 📅 **Date: 1 July 2026**
 
-**Day 47: REST API Concepts – Design Principles**
+**Day 48: Building a Simple REST API with Flask**
 
-**Topic:** Resources, Endpoints, Statelessness, and HTTP Methods
+**Topic:** Creating REST API Endpoints Using Flask
 
 **Learning Objectives:**
 
-* Understand REST API design principles
-* Learn resources, endpoints, and stateless architecture
-* Understand HTTP methods (GET, POST, PUT, DELETE)
-* Learn how JSON is used for API communication
-* Design simple and scalable REST APIs
+* Understand `jsonify` and `request.json` in Flask
+* Build REST API endpoints using Flask
+* Implement GET and POST methods
+* Connect REST APIs with MySQL
+* Test APIs using Postman
 
 **Activities / Deliverables:**
 
-* Design a REST API for a Student Portal
-* Define endpoints and HTTP methods
-* Create sample JSON request and response payloads
-* Document CRUD operations for students
-* Test sample APIs using Postman
+* Create a `/students` GET endpoint to retrieve all student records
+* Create a `/students` POST endpoint to add a new student
+* Connect the API with the MySQL database
+* Return responses in JSON format
+* Test all endpoints using Postman and verify results
 
 **Tools / Tech:**
 
+* Python 3
+* Flask
 * Postman
-* Google Docs / Paper
+* MySQL
 * VS Code
 
 ━━━━━━━━━━━━━━━━━━━━━━
